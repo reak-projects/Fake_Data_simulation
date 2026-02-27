@@ -79,8 +79,13 @@ This allows rapid experimentation without real-world data dependencies.
 > HTML + CSS
 ## Project Structure
 ```
-├── app.py
-├── index.html
+project_folder/
+│
+├── templates/
+│   └── index.html
+│
+└── app.py
+
 ```
 ## 🚀 How to Run Locally
 
